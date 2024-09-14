@@ -11,7 +11,7 @@ from utils import download_images
 import constants
 
 # Define dataset folder path
-DATASET_FOLDER = '../dataset/'
+DATASET_FOLDER = '../../dataset/'
 IMAGE_SIZE = (100, 100)  # Resize images to a fixed size (can be tuned)
 
 # Function to load and preprocess images
