@@ -11,7 +11,7 @@ from utils import download_images
 import constants
 
 # Define dataset folder path
-DATASET_FOLDER = 'D:/ML Challenge/dataset'
+DATASET_FOLDER = '/content/Amazon-ML-Challenge/dataset'
 IMAGE_SIZE = (100, 100)  # Resize images to a fixed size (can be tuned)
 
 # Function to load and preprocess images
